@@ -12,7 +12,7 @@
 
 * When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. Upload those additional files to GitHub and then submit the link. 
 
-## Dom's Note
+## Instructors's Note
 
 The Tableau Public server imposes a size limit on the files you can store there. That limit currently seems to be 10 million rows, although I've seen different numbers quoted at different times. If you're having trouble saving your workbook, please consider reducing the size of your dataset. You may need to use external tools for this--and you're now familiar with several that could do the job (e.g., Python, Excel).
 
