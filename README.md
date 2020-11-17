@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+https://public.tableau.com/profile/kenny8398#!/vizhome/TableauHomework-CitiBikeAnalytics_16056568206520/Dashboard2?publish=yes
+
 ## Before You Begin
 
 * Your Tableau workbook will be saved to your Tableau Public account rather than to GitHub. 
@@ -19,6 +21,10 @@ The Tableau Public server imposes a size limit on the files you can store there.
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+
+![Citi-Bikes](Images/Tableau Homework.jpg)
+
+
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
